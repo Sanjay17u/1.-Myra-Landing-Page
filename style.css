@@ -260,6 +260,7 @@
     overflow-x: auto;
     scroll-snap-type: x mandatory;
     padding-bottom: 2rem;
+    margin-bottom: 3rem;
   }
   
   .collection__item__image {
