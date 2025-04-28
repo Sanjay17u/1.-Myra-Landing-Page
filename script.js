@@ -1,7 +1,7 @@
 $(".islamic-main").slick({
   slidesToShow: 4,
   slidesToScroll: 4,
-  autoplay: false,
+  autoplay: true,
   autoplaySpeed: 1500,
   arrows: true,
   infinite: true,
