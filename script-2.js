@@ -1,9 +1,9 @@
 $(".islamic-main-2").slick({
     slidesToShow: 6,
     slidesToScroll: 1,
-    autoplay: false,
+    autoplay: true,
     autoplaySpeed: 1500,
-    arrows: true,
+    arrows: false,
     infinite: true,
     loop: true,
     dots: false,
