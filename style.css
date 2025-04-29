@@ -396,3 +396,34 @@
 .slick-slide img {
     width: 90% !important;
 }
+
+.second__slider__buttons {
+    position: absolute;
+}
+
+/* .custom-prev, .custom-next {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    margin: 10px;
+  }
+   */
+
+
+   .custom-prev, .custom-next {
+    background-color: white;
+    border: none;
+    color: black;
+   }
+
+
+   .custom-next {
+    position: absolute;
+    right: 10px;
+   }
+
+   .slider-container-2 {
+    position: relative;
+   }

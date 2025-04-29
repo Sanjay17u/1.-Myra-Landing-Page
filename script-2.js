@@ -23,3 +23,11 @@ $(".islamic-main-2").slick({
     ],
   });
   
+  $('.custom-next').click(function () {
+    $('.islamic-main-2').slick('slickNext');
+  });
+  
+  $('.custom-prev').click(function () {
+    $('.islamic-main-2').slick('slickPrev');
+  });
+  
