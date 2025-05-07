@@ -483,3 +483,26 @@
    .blog__images__one__button {
     text-decoration: underline;
    }
+
+   .About__Section {
+    max-width: 1600px;
+   }
+
+   div.About__Section p {
+    margin-bottom: 1em;
+   }
+
+   div.About__Section h4 {
+    padding: 1em 0;
+    font-size: 14px;
+    color: #4d4d4d;
+   }
+
+   .about__section__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2em;
+    font-size: 14px;
+   }
