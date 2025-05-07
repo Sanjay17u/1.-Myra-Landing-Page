@@ -433,11 +433,11 @@
     position: relative;
    }
 
-   header.section__header, h2, a {
+   /* header.section__header, h2, a {
     font-size: 18px;
     color: #000000ab;
 
-   }
+   } */
 
    /* last-images-container {
     max-width: 150px;
@@ -505,4 +505,15 @@
     align-items: center;
     margin-top: 2em;
     font-size: 14px;
+   }
+
+   .section__footer, .Container {
+    background-color: #1c1b1b;
+    color: white;
+    margin: 0 auto;
+   }
+
+   .HorizontalList__Item a {
+    background-color: #1c1b1b;
+    color: white;    
    }
