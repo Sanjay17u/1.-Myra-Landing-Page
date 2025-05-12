@@ -517,3 +517,16 @@
     background-color: #1c1b1b;
     color: white;    
    }
+
+   ul.footer__lists  {
+    display: flex;
+    
+   }
+
+   ul.footer__lists li {
+    padding-right: 1em;
+   }
+
+   .Footer__Block__text__para p {
+    word-wrap: break-word;
+   }
